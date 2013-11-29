@@ -8,7 +8,7 @@ using System.Text;
 using System.Windows.Forms;
 using System.IO;
 
-
+123412342342341234
 namespace Diskretochka_3
 {
     public partial class Form1 : Form
