@@ -41,6 +41,7 @@ namespace Diskretochka_3
                 {
                     Sum[z] = 0;
                 }
+                //ввод с экрана
                 if (form_rBtn.Checked)
                 {
                     A[1][2] = 1;
@@ -55,6 +56,7 @@ namespace Diskretochka_3
                 }
                 else
                 {
+                    //ввод из файла
                     if (file_rBtn.Checked)
                     {
                         StreamReader Read = new StreamReader(MyFile);
