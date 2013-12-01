@@ -135,6 +135,8 @@ namespace Diskretochka_3
            
         }
 
+
+        //кнопка завершения работы программы
         private void exit_button_Click(object sender, EventArgs e)
         {
             Close();
