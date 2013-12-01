@@ -137,7 +137,7 @@ namespace Diskretochka_3
         {
             Close();
         }
-
+        //функция выполнения программы
         private void do_button_Click(object sender, EventArgs e)
         {
             int k=0;
