@@ -17,7 +17,7 @@ namespace Diskretochka_3
             InitializeComponent();
         }
         int[][] A = new int[8][];//матрица смежностей для графа
-        int[] B = new int[8];
+        int[] B = new int[8];//вектор для номеров вершин
         int[] Sum = new int[8];
         
         private void matr_do_button_Click(object sender, EventArgs e)
