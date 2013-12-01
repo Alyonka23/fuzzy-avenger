@@ -8,7 +8,6 @@ using System.Text;
 using System.Windows.Forms;
 using System.IO;
 
-123412342342341234
 namespace Diskretochka_3
 {
     public partial class Form1 : Form
@@ -17,7 +16,7 @@ namespace Diskretochka_3
         {
             InitializeComponent();
         }
-        int[][] A = new int[8][];
+        int[][] A = new int[8][];//матрица смежностей для графа
         int[] B = new int[8];
         int[] Sum = new int[8];
         
