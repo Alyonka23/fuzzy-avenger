@@ -75,6 +75,7 @@ namespace Diskretochka_3
                 }
                 label2.Visible = true;
                 Matr_dataGridView.Visible = true;
+                //вывод матрицы на экран в датагрид
                 Output_Matrix(A, B, Matr_dataGridView);
                 matr_do_button.Visible = false;
                 form_rBtn.Visible = false;
