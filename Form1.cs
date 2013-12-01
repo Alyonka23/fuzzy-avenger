@@ -121,6 +121,8 @@ namespace Diskretochka_3
                 }
 
         }
+        
+        //функция вывода результата на экран
         void Output()
         {
             string result = "N=";
